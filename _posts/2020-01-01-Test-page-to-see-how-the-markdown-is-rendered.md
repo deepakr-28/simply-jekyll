@@ -163,23 +163,23 @@ Some text to show that the reference links can follow later.
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](/assets/img/profile.png "Logo Title Text 1")
+![alt text](/assets/img/profile.jpg "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: /assets/img/profile.png "Logo Title Text 2"
+[logo]: /assets/img/profile.jpg "Logo Title Text 2"
 ```
 
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](/assets/img/profile.png "Logo Title Text 1")
+![alt text](/assets/img/profile.jpg "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: /assets/img/profile.png "Logo Title Text 2"
+[logo]: /assets/img/profile.jpg "Logo Title Text 2"
 
 {:#syntax}
 ### Code and Syntax Highlighting
