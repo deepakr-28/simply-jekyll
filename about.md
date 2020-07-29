@@ -15,17 +15,25 @@ I've transitioned from building AI tools in Python to doing Data Science in a St
 
 ---
 
-## Reach out to me
+### Reach Out To Me
 
 I rant a lot on twitter and here's my fancy [[linkedin::https://www.linkedin.com/in/guyandtheworld/]] profile. If you want to grab a coffee or a beer (I prefer the latter), I'm all down for it as long as you're buying. :P
 
-I'd love to receive an e-mail from you! Drop a an email([[guyandtheworld@gmail.com::mailto:guyandtheworld@gmail.com]]) if you want to flex your mix-tape.
+I'd love to receive an e-mail from you! Drop an email([[guyandtheworld@gmail.com::mailto:guyandtheworld@gmail.com]]) if you want to flex your mix-tape.
 
 ---
 
-## Contributions and Failures
+### What Am I Up to Now?
 
-- **EvalAI and EvalAI-CLI:** Definitely my most significant open-source contribution! I've learned so much from working on these projects about AWS, backend, and good code. The people who I worked with here are just brilliant.
+I work on my start-up [alrt.ai](http://alrt.ai). To pay the bills, I work for a US-based hardware company where I work on architecting their Cloud Environment and databases and do a lot of analytics.
+
+As a hobby, I'm learning how to build scalable applications in Golang while also learning how to do Customer Development and do sales!
+
+---
+
+### Contributions and Failures During my Engineering
+
+- **EvalAI and EvalAI-CLI:** Definitely my most significant open-source contribution! I've learned so much from working on these projects about AWS, backend, and good code. The people who I worked with here are just brilliant. I couldn't have had a better team to do Google Summer of Code with!
 - **Let's Predict the Recession:** Not really a failure since this project helped me get a Data Science internship at Trell! They have over 20 million active users now and I really built some cool stuff while here and made a really good network!
 - **Arvy:** Kind of a failure. Meaning I was successful in building what I intended - a fancy AR-based story-telling application but I didn't do sales or market it enough. Thinking back, if I did go out and put it out there, something definitely would've come out of this.
 - **Makri:** Not really a failure because I got the opportunity to go to Singapore to present a talk on the impact of NLP. This thing was all about "future potential". Alas, this was also abandoned.
@@ -33,15 +41,17 @@ I'd love to receive an e-mail from you! Drop a an email([[guyandtheworld@gmail.c
 
 ---
 
-# What Am I Up to Now?
+### Things I'm Happy I did!
+- **alrt.ai**: It's not every day you can say you co-founded an Enterprise AI Start-up with the Head of Risk Analytics at SCB who you met through Reddit. I got to learn about how Hedge funds work, how Risk Managers think, why VP of Sales gets paid more and exposure, and a network that your average 4th year engineering student doesn't come by.
+- **Google Summer of Code**: This is probably the one thing I worked the most hard for. I had to grind my evening after college, sometimes even skip classes completely to make sure I wrote good code for EvalAI and that eventually ended up getting selected for this program.
+- **Data Science at Trell**: The coolest gig I got. I decided to give Data Science a try since doing statistics and A/B testing fascinated the hell out of me. I had to churn through the ISLR book and eventually got the internship for which I had to move to Bangalore. They brought beer to the office every Friday and they have 20 million active users now.
+- **Mentor for Google Code-In, 2016**: The confidence I got when they selected an 18-year-old to mentor other 18-year-olds probably got me through 4 years of Engineering and pushed to contribute to Open-Source and talk to more people online. Talk about the butterfly effect.
+- **Talk at FOSSASIA Summit, 2018**: Ah, the time when I got invited for a talk at Singapore and got an extreme case of Impostor Syndrome because I felt like the work I did was sub-par (it was) and the people there were beyond accomplished (they were).
 
-I work on my start-up [alrt.ai](http://alrt.ai). To pay the bills, I work for a US-based hardware company where I work on upgrading their Cloud Environment and databases and do a lot of analytics.
-
-As a hobby, I'm learning how to build scalable applications in Golang while also learning how to do Customer Development and do sales!
 
 ---
 
-# Books I Love!
+### Books I Love!
 
 - **Zero to One:** This book changed my outlook on life and probably why I became a workaholic.
 - **Sapiens:** Reinforced my beliefs in existentialism and the futility of life.
@@ -51,7 +61,7 @@ As a hobby, I'm learning how to build scalable applications in Golang while also
 
 ---
 
-## Medium Posts
+### Medium Posts
 
 * [An emotional roadmap for getting a Data Science Internship!](https://medium.com/@guyandtheworld/an-emotional-roadmap-for-getting-a-data-science-internship-e92cff692ed7)
 
@@ -65,7 +75,7 @@ As a hobby, I'm learning how to build scalable applications in Golang while also
 
 ---
 
-## Resume
+### Resume
 
 If you like to hire me or would just like to see my resume, find it [here](https://drive.google.com/file/d/1M55fJi29dG05liEIHLGCl66ZPHJtraNO/view?usp=sharing).
 
