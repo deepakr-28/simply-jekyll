@@ -9,7 +9,7 @@ I read a lot about philosophy, product development, and a whole lot of non-ficti
 
 I started my journey into technology by learning and implementing cool stuff using Machine Learning and Python. From then on, I've been lucky enough to participate in various international programs and even co-found an Enterprise AI Start-up.
 
-I've transitioned from building AI tools in Python to doing Data Science in a Start-Up which has over 20 million active users now. Right now, I genuinely love working with tools on the Cloud and do Data Engineering.
+I've transitioned from building AI tools in Python to doing Data Science in a Start-Up which has over 20 million active users now. Currently, I work with tools on the Cloud and do Data Engineering to support my existence.
 
 [[Github::[https://github.com/guyandtheworld]] [[LinkedIn::[https://www.linkedin.com/in/guyandtheworld/]] [[Twitter::[https://twitter.com/guyandtheworld]]
 
