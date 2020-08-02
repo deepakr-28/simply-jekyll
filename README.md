@@ -20,13 +20,5 @@ I wrote a tutorial explaining how to set it up: https://simply-jekyll.netlify.ap
 - Supports Markdown or HTML notes
 
 
-## To-Do
-
-- [ ] Remove Posts
-- [ ] Add Disqus
-- [ ] Add Google Analytics
-- [ ] Deploy on Netlify
-- [ ] Redirect Domain
-
 
 <img src="https://www.dropbox.com/s/46yfu5fwvfugfvc/end_result.JPG?raw=1" style="box-shadow: 2px 2px 20px 0 #ddd;"/>

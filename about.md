@@ -5,7 +5,7 @@ permalink: /about/
 content-type: eg
 ---
 
-I read a lot about philosophy, product development, and a whole lot of non-fiction. I love indie music and psychedelic rock. I like to brag about how I knew Tame Impala before their Currents album dropped and he went mainstream. Lonerism is hands-down my favorite album.
+I read a lot about philosophy, product development, and a whole lot of non-fiction. I love indie music and psychedelic rock, and I like to brag about how I knew Tame Impala before their Currents album dropped. Lonerism is probably my favorite album.
 
 I started my journey into technology by learning and implementing cool stuff using Machine Learning and Python. From then on, I've been lucky enough to participate in various international programs and even co-found an Enterprise AI Start-up.
 
@@ -42,8 +42,8 @@ As a hobby, I'm learning how to build scalable applications in Golang while also
 ---
 
 ### Things I'm Happy I did!
-- **alrt.ai**: It's not every day you can say you co-founded an Enterprise AI Start-up with the Head of Risk Analytics at SCB who you met through Reddit. I got to learn about how Hedge funds work, how Risk Managers think, why VP of Sales gets paid more and exposure, and a network that your average 4th year engineering student doesn't come by.
-- **Google Summer of Code**: This is probably the one thing I worked the most hard for. I had to grind my evening after college, sometimes even skip classes completely to make sure I wrote good code for EvalAI and that eventually ended up getting selected for this program.
+- **alrt.ai**: It's not every day you can say you co-founded an Enterprise AI Start-up with the Head of Risk Analytics at SCB who you met through Reddit. I got to learn stuff like how Hedge Funds work, how Risk Managers think, and why the VP of Sales always gets paid more! Along with that, gaining exposure and a network that your average 4th year engineering student doesn't come by.
+- **Google Summer of Code**: This is probably the one thing I worked the most hard for. I had to grind my evenings after college, sometimes even skip classes completely to make sure I wrote good code for EvalAI and that eventually ended up getting selected for this program.
 - **Data Science at Trell**: The coolest gig I got. I decided to give Data Science a try since doing statistics and A/B testing fascinated the hell out of me. I had to churn through the ISLR book and eventually got the internship for which I had to move to Bangalore. They brought beer to the office every Friday and they have 20 million active users now.
 - **Mentor for Google Code-In, 2016**: The confidence I got when they selected an 18-year-old to mentor other 18-year-olds probably got me through 4 years of Engineering and pushed to contribute to Open-Source and talk to more people online. Talk about the butterfly effect.
 - **Talk at FOSSASIA Summit, 2018**: Ah, the time when I got invited for a talk at Singapore and got an extreme case of Impostor Syndrome because I felt like the work I did was sub-par (it was) and the people there were beyond accomplished (they were).
