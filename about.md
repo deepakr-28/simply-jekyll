@@ -7,8 +7,6 @@ content-type: eg
 
 I read philosophy, product development, and a whole lot of non-fiction. I love indie music and psychedelic rock, and I like to brag about how I knew Tame Impala before their Currents album dropped. Lonerism is probably my favorite album.
 
-I started my journey into tech by learning and implementing cool stuff using Machine Learning and Python. From then on, I've been lucky enough to participate in various international programs and even co-found an Enterprise AI Start-up.
-
 I've transitioned from building AI tools in Python to doing Data Science in a Start-Up which has over 20 million active users now. Currently, I work with tools on the Cloud and do Data Engineering to support my existence.
 
 [[Github::https://github.com/guyandtheworld]] [[LinkedIn::https://www.linkedin.com/in/guyandtheworld/]] [[Twitter::https://twitter.com/guyandtheworld]]
@@ -17,47 +15,17 @@ I've transitioned from building AI tools in Python to doing Data Science in a St
 
 ### Reach Out To Me
 
-I rant a lot on twitter and here's my fancy [[linkedin::https://www.linkedin.com/in/guyandtheworld/]] profile. If you want to grab a coffee or a beer (I prefer the latter), I'm all down for it as long as you're buying. :P
+I rant a lot on twitter and here's my [[linkedin::https://www.linkedin.com/in/guyandtheworld/]] profile. If you want to grab a coffee or a beer (I prefer the latter), I'm all down for it as long as you're buying. :P
 
-I'd love to receive an e-mail from you! Drop an email([[guyandtheworld@gmail.com::mailto:guyandtheworld@gmail.com]]) if you want to flex your mix-tape.
+Reach out to me through email([[guyandtheworld@gmail.com::mailto:guyandtheworld@gmail.com]]).
 
 ---
 
 ### What Am I Up to Now?
 
-I work on my start-up [alrt.ai](http://alrt.ai). To pay the bills, I work for a US-based hardware company where I work on architecting their Cloud Environment and databases and do a lot of analytics.
+To pay the bills, I work part-time for a US-based hardware company where I work on architecting their Cloud Environment and databases, and do a lot of analytics. Rest of the time, I'm working on my start-up [alrt.ai](http://alrt.ai). 
 
-As a hobby, I'm learning how to build scalable applications in Golang while also learning how to do Customer Development and do sales!
-
----
-
-### Contributions and Failures During my Engineering
-
-- **EvalAI and EvalAI-CLI:** Definitely my most significant open-source contribution! I've learned so much from working on these projects about AWS, backend, and good code. The people who I worked with here are just brilliant. I couldn't have had a better team to do Google Summer of Code with!
-- **Let's Predict the Recession:** Not really a failure since this project helped me get a Data Science internship at Trell! They have over 20 million active users now and I really built some cool stuff while here and made a really good network!
-- **Arvy:** Kind of a failure. Meaning I was successful in building what I intended - a fancy AR-based story-telling application but I didn't do sales or market it enough. Thinking back, if I did go out and put it out there, something definitely would've come out of this.
-- **Makri:** Not really a failure because I got the opportunity to go to Singapore to present a talk on the impact of NLP. This thing was all about "future potential". Alas, this was also abandoned.
-- **Snapdiet:** Complete and utter failure, since again I built this without doing Customer Development. Did I ask myself what would set this apart from the thousand other dieting apps? No. Did I talk with people who diet and track food? Also, no. Did I do it for the sake of making an app? Yes. Was it a good lesson? Kinda.
-
----
-
-### Things I'm Happy I did!
-- **alrt.ai**: It's not every day you can say you co-founded an Enterprise AI Start-up with the Head of Risk Analytics at SCB who you met through Reddit. I got to learn stuff like how Hedge Funds work, how Risk Managers think, and why the VP of Sales always gets paid more! Along with that, gaining exposure and a network that your average 4th year engineering student doesn't come by.
-- **Google Summer of Code**: This is probably the one thing I worked the most hard for. I had to grind my evenings after college, sometimes even skip classes completely to make sure I wrote good code for EvalAI and that eventually ended up getting selected for this program.
-- **Data Science at Trell**: The coolest gig I got. I decided to give Data Science a try since doing statistics and A/B testing fascinated the hell out of me. I had to churn through the ISLR book and eventually got the internship for which I had to move to Bangalore. They brought beer to the office every Friday and they have 20 million active users now.
-- **Mentor for Google Code-In, 2016**: The confidence I got when they selected an 18-year-old to mentor other 18-year-olds probably got me through 4 years of Engineering and pushed to contribute to Open-Source and talk to more people online. Talk about the butterfly effect.
-- **Talk at FOSSASIA Summit, 2018**: Ah, the time when I got invited for a talk at Singapore and got an extreme case of Impostor Syndrome because I felt like the work I did was sub-par (it was) and the people there were beyond accomplished (they were).
-
-
----
-
-### Books I Love!
-
-- **Zero to One:** Prime reason why I became a workaholic. Damn you, Peter Thiel.
-- **Sapiens:** Reinforced my beliefs in existentialism and the futility of life.
-- **Endurance: Shackleton's Incredible Voyage**
-- **The Tipping Point:** Malcolm Gladwell is probably my favourite author.
-- **Into Thin Air**
+As a hobby, I'm learning how to build scalable applications in Golang while reading Product and Customer Development!
 
 ---
 
