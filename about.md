@@ -7,7 +7,7 @@ content-type: eg
 
 I read philosophy, product development, and a whole lot of non-fiction. I love indie music and psychedelic rock, and I like to brag about how I knew Tame Impala before their Currents album dropped. Lonerism is probably my favorite album.
 
-I've transitioned from building AI tools in Python to doing Data Science in a Start-Up which has over 20 million active users now. Currently, I work with tools on the Cloud and do Data Engineering to support my existence.
+I've transitioned from building AI tools in Python to doing Data Science in a Start-Up which has over 20 million users now. Currently, I work with tools on the Cloud and do Data Engineering to support my existence.
 
 [[Github::https://github.com/guyandtheworld]] [[LinkedIn::https://www.linkedin.com/in/guyandtheworld/]] [[Twitter::https://twitter.com/guyandtheworld]]
 
