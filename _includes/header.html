@@ -1,7 +1,5 @@
 {%- if page.content-type == "notes" or page.permalink == "/notes" -%}
 <header>
-    {% include analytics.html %}
-
     <div class="notes-page-subheader disable-select">
         <div class="notes-page-site-heading">
             <p><a href="/index.html">{{site.title}}</a></p>
@@ -69,6 +67,11 @@
 </header>
 {%- else -%}
 <header>
+
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+
     <div class="dashboard disable-select">
         <div class="site-heading profile-board-col">
            <h4 class="medium"><a href="/">{{site.title}}</a></h4>
