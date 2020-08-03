@@ -67,11 +67,7 @@
 </header>
 {%- else -%}
 <header>
-
-    {% if jekyll.environment == 'production' %}
     {% include analytics.html %}
-    {% endif %}
-
     <div class="dashboard disable-select">
         <div class="site-heading profile-board-col">
            <h4 class="medium"><a href="/">{{site.title}}</a></h4>
