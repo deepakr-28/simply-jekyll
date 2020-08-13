@@ -1,10 +1,10 @@
-title: Adarsh S
-name: Adarsh S
-user_description: Developer, Gen-Z, Reader.
+title: adarsh S
+name: adarsh S
+user_description: cloud engineer, gsoc '18 cloud-cv, co-founder alrt.ai, data science @ trell
 # notes_url: "https://simply-jekyll.netlify.app"
 profile_pic: /assets/img/profile.jpg
 favicon: /assets/img/favicon.png
-copyright_name: John Doe
+copyright_name: Adarsh S
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
