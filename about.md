@@ -29,16 +29,6 @@ As a hobby, I'm learning how to build scalable applications in Golang while read
 
 ---
 
-### Medium Posts
-
-* [An emotional roadmap for getting a Data Science Internship!](https://medium.com/@guyandtheworld/an-emotional-roadmap-for-getting-a-data-science-internship-e92cff692ed7)
-* [Amazon Vs. Flipkart: Finding the best prices for books!](https://towardsdatascience.com/amazon-vs-flipkart-finding-the-best-prices-for-books-bab29811b801)
-* [Is there a right time to post on Reddit?](https://towardsdatascience.com/the-optimum-time-to-shit-post-on-reddit-72a51cd6418b)
-* [GSoC 2018 with CloudCV](https://medium.com/@guyandtheworld/fin-gsoc-2018-with-cloudcv-43a0854338ee)
-* [Making NLP accessible — Talk at FOSSASIA Summit Singapore, 2018](https://medium.com/@guyandtheworld/making-nlp-accessible-talk-at-fossasia-summit-singapore-2018-6e2124b33a71)
-
----
-
 ### Resume
 
 If you like to hire me or would just like to see my resume, find it [here](https://drive.google.com/file/d/1M55fJi29dG05liEIHLGCl66ZPHJtraNO/view?usp=sharing).
