@@ -1,6 +1,6 @@
 ---
 title: Amazon Vs. Flipkart - Finding the Best Prices for Books!
-tags: Data Analysis
+tags: Data-Analysis
 comments: true
 ---
 

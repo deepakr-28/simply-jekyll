@@ -1,6 +1,6 @@
 ---
 title: The Optimum Time to Shitpost on Reddit.
-tags: Data Analysis
+tags: Data-Analysis
 comments: true
 ---
 
