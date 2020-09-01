@@ -16,7 +16,7 @@ In retrospect, even the AWS bill can be brought down if we properly set things u
 
 Now a little about the business, these guys are a hardware company who do analytics and had steady sales for 5 years and had perfected their niche and were growing.
 
-They had to set up their whole infrastructure in AWS and it was kind of rusty, to say the least. In 2015, AWS was a popular place for small businesses to host their servers due to the ecosystem, expertise, and community surrounding AWS. For a small business, it would be quite counter-intuitive to host your server anywhere else because AWS had everything.
+They had to set up their whole infrastructure in AWS and it was kind of rusty. In 2015, AWS was a popular place for small businesses to host their servers due to the ecosystem, expertise, and community surrounding AWS. For a small business, it would be quite counter-intuitive to host your server anywhere else because AWS had everything.
 
 A lot of legacy systems are in AWS even though there are better alternatives and tools when you compare ease-of-use, docs, services, and community. Companies starting up right now are choosing competitively on where to host their system from a range of options like GCP, Digital Ocean, AWS, Azure, IBM. Most of the deployment processes have been reduced to just a few clicks, that it’s totally worth exploring the bunch of services that would make maintenance, deployment, and monitoring easier now or consider upgrading your already existing system to the vendor which aligns with your business and team.
 
