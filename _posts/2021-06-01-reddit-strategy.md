@@ -16,14 +16,14 @@ The framework that I listed down here can be used for Discord and other forums t
 - [Ente.io - r/degoogle](https://www.reddit.com/r/degoogle/comments/njatok/we_built_an_endtoend_encrypted_alternative_to/)
 - [tiny.school - r/coding](https://www.reddit.com/r/coding/comments/n7m0q2/i_can_code_well_now_what_i_made_a_list_of_curated/)
 
-### Why should you validate on Reddit?
+### Why Should You Validate on Reddit?
 
 - To validate that your idea solves an actual problem that the user has.
 - Your first version is probably not the best version, the community and their feedback will guide it to where it wants to go.
 - You shouldn't waste months on building something no one wants and it's good to have distribution before you have the product.
 - It would help you with SEO.
 
-### What should you validate on Reddit?
+### What Should You Validate on Reddit?
 
 - A B2C product popular enough to have a subreddit. If you're building a B2B product for hedge fund managers interested in silver commodities, you'll have a much harder time doing that on Reddit.
 - Something you're sure will create value to the Subreddit you chose. If you release it without creating value, you will ruin your reputation, get banned and make it tough for the mods and ruin the community.
