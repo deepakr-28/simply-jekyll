@@ -23,9 +23,9 @@ Reach out to me through email([[guyandtheworld@gmail.com::mailto:guyandtheworld@
 
 ### What Am I Up to Now?
 
-To pay the bills, I work part-time for a US-based hardware company where I work on architecting their Cloud Environment and databases, and do a lot of analytics. Rest of the time, I'm working on my start-up [alrt.ai](http://alrt.ai). 
+I work part-time for a US-based hardware company where I work on architecting their Cloud and databases, and do a lot of analytics. Rest of the time, I'm working on my start-up [reallyconfused.co](https://reallyconfused.co). 
 
-As a hobby, I'm learning how to build scalable applications in Golang while reading Product and Customer Development!
+As a hobby, I'm learning how to build scalable applications in Golang while YOLOing my money away on Crypto!
 
 ---
 
