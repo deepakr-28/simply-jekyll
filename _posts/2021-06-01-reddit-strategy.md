@@ -32,14 +32,14 @@ Now since we listed down the pre-requisites, let's see how we can get this done!
 
 ### Frame the Problem Statement
 
-The first part before building the MVP is to validate your idea. Most often the idea software engineers come up with is a solution. We see the end product, the website, the iOS app, the hardware. The aim is to frame the problem statement. What's the difficulty the user is facing? In most cases, you'll need to optimize the idea multiple times to get to the problem statement to get to one that actually makes sense and one that the user would appreciate. Unless you're a person who's coming into the game with a problem statement, you're good to go.
+The first part before building the MVP is to validate your idea. Most often the idea software engineers come up with is a solution. We see the end product, the website, the iOS app, the hardware. The aim is to frame the problem statement. You need to find an answer to this question - what's the difficulty the user is facing? In most cases, you'll need to optimize the solution multiple times to get to the problem statement to get to one that actually makes sense and one that the user would resonate with. Unless you're a person who's coming into the game with a problem statement, you're good to go.
 
-My problem statement was this -
+My problem statement was this
 
 #### *"Beginners are confused regarding career options while self-learning a job."*
 
 
-The solutions were to build a platform where you could explore roadmaps on tech where it outlined how one could go from studying a particular programming language to a career in tech. I too started thinking of it from the solution instead of the problem. Before I wrote a single line of code, I was committed to talking to a hundred users to
+The solution was to build a platform where you could explore roadmaps on tech where it outlined how one could go from studying a particular programming language to a career in tech. I too started thinking of it from the solution instead of the problem. Before I wrote a single line of code, I was committed to talking to a hundred users to
 
 1. Remove any personal bias from my idea.
 2. Get an email committing to use the product so that I had distribution before the product
@@ -48,11 +48,11 @@ Now we have the problem statement, and we haven't written a single line of code,
 
 ### Find the Community-Idea fit
 
-I think the reason Reddit works well for this is that if I received a hand-crafted personalised message from a comment I wrote on the niche I'm interested in from another anonymous user, I know for a fact that this individual is reaching out to me for what I'm interested in and not because of who I am. Now we have an idea why Reddit might be good for value creation and now you know that the way you reach out to these people has to be in a way that creates value for them while also engaging them.
+I think the reason Reddit works well for this is that if I received a hand-crafted personalised message from a comment I wrote on the niche topic that I'm interested in from another anonymous user, I know for a fact that this individual is reaching out to me for what I'm interested in and not because of who I am. Now we have an idea why Reddit might be good for value creation and now you know that the way you reach out to these people has to be in a way that creates value for them while also engaging them.
 
 The first thing you need to do is find these communities, to do that I googled "learn programming subreddit". It returns three subreddits - r/learnprogramming, r/coding, r/programming. All three are important but r/learnprogramming had the biggest potential. Then you read the rules to get an idea of who uses this subreddit. You sort by the top (by the year) and you get a solid idea about what the community is about and what kind of posts people share there. Use your reasoning to see if the users here would resonate with the problem statement at hand.
 
-For the other products I validated, I googled for "podcasters subreddit" and it returned r/podcasting and r/podcasts. The second product was a product for youtube creators so the keyword I used was "youtube creators subreddit". It returns three subreddits - r/youtubers, r/newtubers, r/partneredyoutube. All three are important but r/partneredyoutube was more of my audience but I never went about building these products due to multiple reasons even though I got validation.
+For the other products I validated, I googled for "podcasters subreddit" and it returned r/podcasting and r/podcasts. The second product was a product for youtube creators so the keyword I used was "youtube creators subreddit". It returns three subreddits - r/youtubers, r/newtubers, r/partneredyoutube. All three are important but r/partneredyoutube was more of my audience but I never went about building these two products due to multiple reasons even though I got validation.
 
 ### Find the Early-Evangelists From the Forum
 
@@ -76,7 +76,7 @@ Slowly but surely I started reaching out to these folks to get a better understa
 
 ### Validate Your Idea and Collect Email.
 
-I still wasn't convinced that the users would come if I built it. Yes, I got validation for the problem statement and got a couple of emails but not enough for me to be satisfied. Would they pay if there was an option? Can I acquire users at scale? I wanted to run a couple of experiments to see if it'd work.
+I still wasn't convinced that the users would come if I built it. Yes, I got validation for the problem statement and got a couple of emails but not enough for me to be satisfied. Would they pay if there was an option? Can I acquire users at scale? I wanted to run couple of experiments to see if it'd work.
 
 First, I asked my friend who was an established data scientist to note down the resources he used to self-learn data science. Then I visualised this using Figma, which I had to learn and released it with integration to substack to collect emails. I released this PDF in a subreddit, made a medium post and it got some much-needed traction.
 
@@ -99,7 +99,7 @@ I'm not going to explain how to build a product because I'm pretty sure there ar
 
 ### When you Get Stuck, Go Back to Your Initial Users
 
-I suggested keeping this sprint short is because chances are you'll be hit with an existential crisis while you're building it. The longer it takes, the harder it'll be to keep up the momentum. It took me 5-6 months to ship, which could've been done faster and there were times I wanted to quit. I constantly asked myself "who'll want this?". During these tough times where you're questioning your sanity, you need to go back to your users and get more validation to get your momentum back especially if you're an indie-hacker. There were times I was like "only if I worked on a B2B product" before launch and then I'll go back and read the initial customer development I did and it'd give me a boost of energy to keep going. I think questioning your sanity is a good way to make sure that you're not building anything based on delusions, too much of this can be detrimental.
+I suggested keeping this sprint short is because chances are you'll be hit with an existential crisis while you're building it. The longer it takes, the harder it'll be to keep up the momentum. It took me 5-6 months to ship, which could've been done faster and there were times I wanted to quit. I constantly asked myself "who'll want this?". During these tough times where you're questioning your sanity, you need to go back to your users and get more validation to get your momentum back especially if you're an indie-hacker. There were times I was like "only if I worked on a B2B product" before launch and then I'll go back and read the initial customer development I did and it'd give me a boost of energy to keep going. I think questioning your sanity is a good way to make sure that you're not building anything based on your delusions, too much of this can be detrimental.
 
 ### After the MVP is Done, Release it!
 
