@@ -4,15 +4,13 @@ tags: Product
 comments: true
 ---
 
-In this post, I'll explain how you can come up with a start-up idea, get it validated, build an MVP and have a great launch while providing value for the subreddit community. Here are a few examples of the Reddit launch which benefitted the communities more than the creators and in turn found "community-idea fit". 
-
-I've validated multiple products on Reddit and built one of them. The product I built was for self-learners and I leveraged a self-learning community called r/learnprogramming to validate and release it.
+In this post, I'll explain how you can come up with a start-up idea, get it validated, and have a great launch while providing value for the subreddit. I will not be discussing "how to build MVP" part because that'd be a waste of time for everybody. I've validated multiple products on Reddit and built one of them. The product I ended up building was for self-learners and I leveraged a self-learning community called r/learnprogramming. Using this strategy,
 
 - I ended up garnering 300,000 views, 1500 sign-ups for the product.
 - It was largely driven by a post that got 4200 upvotes, 170 awards, 200 comments which were absolutely pivotal for getting feedback.
 - I spent $0 to do this while managing a day job.
 
-The framework that I listed down here can be used for Discord and other forums too. I'm sticking to Reddit since that's where I personally found success. These are a few examples
+The framework that I listed down here can be used for Discord and other forums too. I'm sticking to Reddit since that's where I personally found success. Here are a few examples of the Reddit launches which benefitted the communities more than the creators and in turn found "community-idea fit".
 
 - [ReallyConfused - r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/lrcrxx/to_make_careerplanning_less_confusing_while/)
 - [Ente.io - r/degoogle](https://www.reddit.com/r/degoogle/comments/njatok/we_built_an_endtoend_encrypted_alternative_to/)
