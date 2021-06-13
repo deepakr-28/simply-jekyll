@@ -1,6 +1,6 @@
 ---
 title: How my First Start-up Failed Spectacularly.
-tags: Product, Start-up, Lessons
+tags: Product Start-up Lessons
 comments: true
 ---
 
