@@ -4,6 +4,9 @@ tags: Product Start-up Lessons
 comments: true
 ---
 
+
+### The Start
+
 After you try and fail at building a profitable start-up multiple times, at one point you'd have learned enough from the failures that there'd be no way out but to do it right. I think that quote was by Edison or something, idk. In this essay, I'll be trying to touch upon my first attempt at building a start-up, how it miserably failed at being a start-up and the lessons I learned from it. These essential lessons I learned from my first failure was pivotal for everything that comes after.
 
 
@@ -15,6 +18,7 @@ I also knew in my bones that it'd be a much more fulfilling thing to pursue next
 
 I'm not an idiot, so I did plan for the possibility of my Plan-A failing. If my Plan-A failed, the Plan-B would be that I'd still have the tech skills from this venture to back my portfolio up. It's a gamble, but let's get this shit done. What would I have done differently? I should have started a Whatsapp newsletter. Just kidding. But yeah, I think if my motivations were in the right place, which was to create a start-up by bringing genuine value, that'd have yielded a better result than the strategy I took.
 
+### The Strategy
 
 I wanted to build a start-up while specialising and gaining skills in Data Science. So what did I do? I went over to r/datascience and I offered my skills to the free market to see the response it yielded. The free market did respond. My post got removed and I almost got banned for spamming. I guess the free market wanted to preserve the value and integrity of the forum. One interesting thing happened though, before I got banned, a couple of folks commented on this post showing interest. 
 
@@ -89,6 +93,7 @@ Enough getting emotional, it turns out that COVID was another opportunity. Becau
 
 That second epiphany was the lack of money coming in. It penetrated our bubble of delusions about the "start-up" we were building. By then, we had an MVP that we were proud of. Compared to our competitor, the BLOOMBERG TERMINAL, which literally brings in billions in revenue, our product was like a minor downgrade but hell, our UI had better colours.
 
+### The End
 
 It was a cool MVP which I was really really proud of. You could create a "scenario" like "Risk", "Climate Change", "Green Energy" and companies and entities that you want to track and they'd scrape and gather news articles regarding that. Did you want to know cool green energy company news in Australia? Boom, you got it! We kept on adding feature after feature. Graph database to map and connect entities? You got it. Predictive algorithm to score entity relationships? You got it.
 
@@ -101,6 +106,8 @@ Since we couldn't sell this product to hedge-funds and investment firms, I tried
 
 I ended up open-sourcing all the tech I wrote and put it on my Github. The last days of the company were filled with so much despair, realisations and harsh truths that I took a couple of days off just to process it. I was feeling bad for the team since we failed, and one of my peers had to cancel his masters for doing this. If you built a start-up, you know how hard it is to just let go of it. It's like a baby you're raising a baby and boom, one day the doctor tells you that it's not going to survive and you sit and ponder where you went wrong and how you can salvage something out of it. It was COVID, so you couldn't go out and have a drink to talk it out neither. The existential crisis of sitting in your room at 1 AM grappling with the reality of truth is a very humbling experience. Suddenly the expectations and hopes about being a millionaire come crashing down and the delusions that you convinced yourself of is out there clear as day. You had to let go and move on. With this, there was only one thing left to do, quit.
 
+
+### The Lessons
 
 It was not all in vain, I was able to leverage the tech skills I gained here by learning all this and get a very well paying job, 2X more than I would've gotten from sitting in placements. The seven months that I spent doing this with my team were times of immense personal growth and sacrifice. I do not think the things I learned about myself through this journey could be recaptured by anything else. These would turn out to be fundamental lessons that fuel my journey forward. 
 
