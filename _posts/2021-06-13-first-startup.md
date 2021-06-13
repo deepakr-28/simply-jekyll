@@ -125,6 +125,11 @@ Eventually, I was able to convert that into a job where I could work my own hour
 
 Why am I reflecting on this after a year? I don't know. If this helps one other person make a better decision, I guess that's enough but I don't think I'm that altruistic. I guess I just wrote this for myself and if you read my last essay, the launch success, getting a YC interview call is directly correlated to the lessons that I learned here. Just focusing on creating value and being of service to others. I still have a long way to go but yeah, this shit is fulfilling af.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TD20bBR88o4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-<iframe src="https://open.spotify.com/embed/track/5OLjhk2db14wAFMmWjrxGw" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TD20bBR88o4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<br>
+
+<center><iframe src="https://open.spotify.com/embed/track/5OLjhk2db14wAFMmWjrxGw" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
+
+<br>
