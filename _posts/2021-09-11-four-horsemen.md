@@ -51,7 +51,7 @@ When the Indian start-up ecosystem was in its infancy, there was a lack of role 
 
 They will block you at the first attempt at calling them out. Always signalling that they're trying to work on high-status things, but lacks the vision or the actual grind that's necessary to make it, but makes a living out of preaching about them. Mostly rants about whatever technology is in the mainstream and moves on when the next set of shiny toys comes along. Doesn't seem to commit to any mission. How to spot them? Go to the front page of Tech Crunch and look for hot terms. Eg. NFT, Solana. Then see who's reiterating the same without having skin in the game.
 
-A good litmus test to filter the good ones from the bad is to maybe ask have shipped anything useful, code or no-code? Are they creating value outside of social media? Are they coming up with thought-provoking insights and creative ideas about the things that they are talking about? Are they reiterating things by rephrasing popular narratives to garner sentiment?
+A good litmus test to filter the good ones from the bad is to maybe ask have they shipped anything useful, code or no-code? Are they creating value outside of social media? Are they coming up with thought-provoking insights and creative ideas about the things that they are talking about? Are they reiterating things by rephrasing popular narratives to garner sentiment?
 
 
 ### The Settled Remote Worker
