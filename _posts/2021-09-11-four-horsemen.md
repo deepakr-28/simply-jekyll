@@ -29,7 +29,7 @@ They also adopt the company's philosophy without questioning its integrity. Usua
   
   
 
-### Restaraunt Orbiters
+### Restaurant Orbiters
 
 
 Back when I was interning in a start-up in Bangalore, I was a part of this group, and I had fun. Even though the internship came with status, it was boring. Most of the time I was working on side-projects or complex things for the sake of feeling smart. It didn't have much meaning. I looked forward to eating meals with my mates. I made some great friends with who I'm still in touch now. You never see us, or them alone, ever. It's surreal. Mostly seen around the areas of hotels and cafes around lunchtime.
@@ -51,6 +51,7 @@ When the Indian start-up ecosystem was in its infancy, there was a lack of role 
 
 They will block you at the first attempt at calling them out. Always signalling that they're trying to work on high-status things, but lacks the vision or the actual grind that's necessary to make it, but makes a living out of preaching about them. Mostly rants about whatever technology is in the mainstream and moves on when the next set of shiny toys comes along. Doesn't seem to commit to any mission. How to spot them? Go to the front page of Tech Crunch and look for hot terms. Eg. NFT, Solana. Then see who's reiterating the same without having skin in the game.
 
+A good litmus test to filter the good ones from the bad is to maybe ask have shipped anything useful, code or no-code? Are they creating value outside of social media? Are they coming up with thought-provoking insights and creative ideas about the things that they are talking about? Are they reiterating things by rephrasing popular narratives to garner sentiment?
 
 
 ### The Settled Remote Worker
@@ -61,7 +62,14 @@ They've made it. They don't even have to leave their hometowns now. This is the 
 It's a great option though. They can exert influence in their hometowns and be a role-models for the kids growing up in small-towns. I was one of those kids and I sure would've loved to have a role model like this. Their lungs will be safe from the smoggy air of the cities. I would like to exercise this option in the future. Maybe after I'm 30 and after having amassed enough wealth from tech, I'll set some kind of establishment in my hometown where I can meditate and work taking in the wonderful views of the Western Ghats. I and my cousin have a ritual where we go out walking out in the paddy fields at least one time a year and exchange the plans we have once we make it big. One of them is setting up a traditional resort with a high-speed fibre connection to chill during the monsoons and the winter months. Summers will be better spent in Dharamshala. 
 
 ![Traditional Kerala Architecture](https://i.pinimg.com/originals/04/f1/f8/04f1f8a5818c1972be9e36017e4f8fdb.jpg)
-  
+
+Look at how beautiful this is compared to what's being adopted today. The ancient architecture was built with taste, intuition and utility. I've been in these houses and during summers, they provide natural ventilation and cooling. 
+
+![Indoor](https://i.pinimg.com/originals/74/a9/10/74a9107b187254b74b4d3fe4e775909d.jpg)
+
+The courtyard provided you with natural lighting and, and during rains, it was absolutely beautiful. 
+
+Modern architecture has iatrogenic effects. They do more harm than good. They're blant, do not have natural cooling, so you naturally need to set up an air-conditioner to provide the cooling. Now, these suckers need electricity that you get by burning coal further contributing to an already degrading planet. 
 
 
 ### Wrapping Up
