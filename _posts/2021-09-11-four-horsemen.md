@@ -10,13 +10,13 @@ comments: true
 
 I went for a walk today, well more specifically, I went for a Lindy Walk. It was quite nice, there was a drizzle, I got to wear my favourite windbreaker, in Delhi. This was the first time the weather was even moderately suitable for that after my last stint in the mountains.
 
-While walking, I was thinking about India and how far the tech ecosystem here has progressed. Last five years all these food delivery apps, taxi services, and entertainment apps took became a priority in our life. Guess a good amount of that has to do with the fact that Jio made data dirt cheap.
+While walking, I was thinking about India and how far the tech ecosystem here has progressed. Last five years all these food delivery apps, taxi services, and entertainment apps became a priority in our life. Guess a good amount of that has to do with the fact that Jio made data dirt cheap.
 
 Innovation on this scale brings massive change. Massive change is catalyzed because a ton of people participate in a movement. That made me think. The dynamics of human nature stays the same no matter how innovative the technology is. Think nuclear bombs. We're way too immature as a species to have access to that force of nature. Monkeys playing with Pandora's box.
 
 Whenever there's a large group of people, in this case, the Indian tech eco-system, you can see patterns of human nature. Some people have common traits and it could be because of the school they attended, or the philosophy of the company, or where they went to university.
 
-Reflecting on my experience of being in the tech industry for five years, I thought it'd be a great thought exercise to maybe group people I've encountered who showed similar traits and what we could learn from them. 
+Reflecting on my experience of being in the tech industry for five years, I thought it'd be a great thought experiment to maybe group people I've encountered who showed similar traits and what we could learn from them.
 
   
 ### Prescribed Over-Achievers
@@ -45,7 +45,7 @@ They also seem to carry tags around their neck, some even decide to be rebelliou
 ### The Corporate Dropout
 
 
-The one risk they took in their life that paid off was them quitting corporate for start-ups, but then it deterred them from taking any other risks due to the fear of losing status. The initial system that they were corrupted how they see the world. It moulded their philosophy in such a way that they were wired to not work on things deep in the trenches.
+The one risk they took in their life that paid off was them quitting corporate for start-ups, but then it deterred them from taking any other risks due to the fear of losing status. The initial system that they were in, corrupted their world-view so much that it's not salvageable anymore. It moulded their philosophy in such a way that they were wired to not work on things deep in the trenches.
 
 When the Indian start-up ecosystem was in its infancy, there was a lack of role models in the space. They were the first adopters of these mass communication media and hence garnered a following. They're not good at anything except leveraging mass communication with manufactured takes that are self-censored to a large extent due to the fear of being criticised. 
 
