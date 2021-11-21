@@ -1,5 +1,5 @@
 ---
-title: From Learning Python to Becoming Kaggle Kernels Top 20, A Road-map
+title: from learning python to becoming kaggle kernels top 20, a road-map
 tags: Data-Science
 comments: true
 ---

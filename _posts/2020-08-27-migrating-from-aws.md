@@ -1,5 +1,5 @@
 ---
-title: Cutting AWS Bill By More Than Half After Migrating To GCP And Digital Ocean
+title: cutting AWS bill by more than half after migrating to GCP and digitalocean
 tags: Cloud
 comments: true
 ---

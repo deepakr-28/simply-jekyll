@@ -1,5 +1,5 @@
 ---
-title: A Roadmap for Getting a Data Science Internship!
+title: a roadmap for getting a data science internship!
 tags: Data-Science
 comments: true
 ---

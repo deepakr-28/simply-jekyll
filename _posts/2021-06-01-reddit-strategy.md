@@ -1,5 +1,5 @@
 ---
-title: How I Launched my Product on Reddit to get 1,500 Sign-ups and 300,000 Page-views
+title: launching my product on reddit to get 1,500 sign-ups and 300,000 views
 tags: Product
 comments: true
 ---
