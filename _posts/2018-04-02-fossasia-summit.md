@@ -1,5 +1,5 @@
 ---
-title:  Making NLP accessible — Talk at FOSSASIA Summit Singapore, 2018
+title:  making NLP accessible — talk at FOSSASIA summit singapore, 2018
 tags: Talk
 comments: true
 ---

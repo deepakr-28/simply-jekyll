@@ -1,5 +1,5 @@
 ---
-title: GSoC 2018 with CloudCV
+title: gsoc 2018 with cloudcv
 tags: Internship
 comments: true
 ---
