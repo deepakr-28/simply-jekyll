@@ -1,5 +1,5 @@
 ---
-title: The Open-Source Challenge.
+title: the open-source challenge
 tags: Open-Source Start-up Lessons
 comments: true
 ---

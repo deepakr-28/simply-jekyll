@@ -1,5 +1,5 @@
 ---
-title: How my First Start-up Failed Spectacularly.
+title: how my first start-up failed spectacularly
 tags: Product Start-up Lessons
 comments: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Four Horsemen of the Indian Tech-Ecosystem
+title: the four horsemen of the indian tech-ecosystem
 tags: Satire Tech Commentary
 comments: true
 ---

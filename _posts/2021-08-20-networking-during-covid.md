@@ -1,5 +1,5 @@
 ---
-title: How To Grow Your Professional Network and Get a Remote Job During COVID.
+title: growing your professional network in the year of the plague
 tags: Open-Source Lessons Networking
 comments: true
 ---
